@@ -1,1 +1,2 @@
-# PracticalTest01Var03
+Corman Alexandru Stefan
+341C1
