@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">PracticalTest01Var03</string>
+    <string name="second_activity">Navigate to second activity</string>
+    <string name="checkbox1"></string>
+    <string name="checkbox2"></string>
+    <string name="display_info">Display Information</string>
+    <string name="display_text"></string>
+    <string name="ok">OK</string>
+    <string name="cancel">Cancel</string>
+    <string name="second_act">Second activity</string>
+
+</resources>
